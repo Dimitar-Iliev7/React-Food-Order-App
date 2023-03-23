@@ -15,13 +15,13 @@ Features
 
 # The app has the following features:
 
-Browse food items
-Add items to cart
-Remove items from cart
+Browse food items, 
+Add items to cart, 
+Remove items from cart, 
 Place an order
 
 # Tech Stack
 The app was built with the following tech stack:
-React
-Vite
+React, 
+Vite, 
 CSS Modules
